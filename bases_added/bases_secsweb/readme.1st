@@ -1,0 +1,5 @@
+This directory contains the three basic empty databases used in Secs-Web, to allow to use them in Central as normal databases.
+In the data-subdirectories in addition to the Linux-versions the Windows-versions are also available but with the name of the
+database followed by 'w'.
+So please to use them in Windows, rename titlew.* to title.*, maskw.* to mask.*, holdingsw.* to holdings.* and facicw.*
+to facic.*.  The mask-database is the only one with real records inside.
